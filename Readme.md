@@ -1,6 +1,6 @@
-# Project Title
+# Project description
 
-A brief description of what this project does and who it's for. This project includes a script for manipulating 3D mesh objects, specifically for operations involving a nut and a screw model, such as rotation, translation, scaling, finding specific geometric characteristics, and saving the manipulated models to STL files.
+This project includes a script for manipulating 3D mesh objects, specifically for operations involving a nut and a screw model, such as rotation, translation, scaling, finding specific geometric characteristics, and saving the manipulated models as STL files.
 
 ## Instructions for setting up virtual env and installing dependencies
 
